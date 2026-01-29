@@ -1,0 +1,9 @@
+#                                                           Developed by Senkex
+
+name: PluginShield
+version: '1.0'
+
+author: 'Senkex'
+
+api-version: '1.21'
+main: com.github.senkex.PluginShield
